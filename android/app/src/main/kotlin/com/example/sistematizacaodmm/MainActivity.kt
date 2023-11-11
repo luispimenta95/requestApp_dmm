@@ -1,0 +1,6 @@
+package com.example.sistematizacaodmm
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
